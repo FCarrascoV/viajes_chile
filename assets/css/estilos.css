@@ -1,11 +1,22 @@
-/*.navbar-collapse {
-    top: 50;
-  }*/
-
 .card-img-top{
     height: 200px;
 }
 
 .card-body{
     height: 230px;
+}
+
+.popover-header {
+    color: black;
+    background-color: yellow;
+    font-weight: bolder;
+}
+
+.popover.bg-dark .popover-body {
+    color: #fff;
+}
+
+.tooltip-inner {
+    border: 10px;
+    color: yellow;
 }
